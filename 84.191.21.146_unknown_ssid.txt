@@ -1,0 +1,3 @@
+WLAN SSID: unknown_ssid
+WLAN Passwort: unknown_pw
+Key (Base64): vQbiVASCYaKaltgA2pZPL8U65rUQ8V75DOhuq9B31Wc=
